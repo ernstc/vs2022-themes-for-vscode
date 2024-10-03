@@ -1,0 +1,46 @@
+{
+  "name": "vs2022-themes-for-vscode",
+  "displayName": "Visual Studio 2022 Themes for VSCode",
+  "description": "Blue and Dark themes used in Visual Studio 2022",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "publisher": "ErnestoCianciotta",
+  "author": {
+    "name": "Ernesto Cianciotta"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ernstc/vs2022-themes-for-vscode.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "visual studio",
+    "visual studio 2022",
+    "visual studio color theme",
+    "visual studio 2022 color theme",
+    "visual studio themes",
+    "visual studio 2022 themes",
+    "visual studio default themes",
+    "visual studio 2022 default themes"
+  ],
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Visual Studio 2022 Blue",
+        "uiTheme": "vs",
+        "path": "./themes/blue-vs-color-theme.json"
+      },
+      {
+        "label": "Visual Studio 2022 Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-vs-color-theme.json"
+      }
+    ]
+  }
+}
