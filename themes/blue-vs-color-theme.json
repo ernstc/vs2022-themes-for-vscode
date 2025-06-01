@@ -133,7 +133,8 @@
 		"menu.separatorBackground": "#c0cae9",
 		"menu.selectionBackground": "#b1c5ff",
 		"menu.selectionBorder": "#203d77",
-		"menubar.selectionBackground": "#ecf4ff"
+		"menubar.selectionBackground": "#ecf4ff",
+		"breadcrumb.background": "#f4f7fe"
 	},
 	"tokenColors": [
 		{

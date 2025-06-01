@@ -2,7 +2,7 @@
   "name": "vs2022-themes-for-vscode",
   "displayName": "Visual Studio 2022 Themes for VSCode",
   "description": "Blue and Dark themes used in Visual Studio 2022",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "engines": {
     "vscode": "^1.0.0"
   },

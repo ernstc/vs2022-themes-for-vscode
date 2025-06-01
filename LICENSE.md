@@ -1,7 +1,7 @@
 The MIT License
 
 Copyright © 2022 Shayan Ahmed Khan
-Copyright © 2024 Ernesto Cianciotta
+Copyright © 2025 Ernesto Cianciotta
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
