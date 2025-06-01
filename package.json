@@ -1,8 +1,8 @@
 {
   "name": "vs2022-themes-for-vscode",
-  "displayName": "Visual Studio 2022 Themes for VSCode",
-  "description": "Blue and Dark themes used in Visual Studio 2022",
-  "version": "0.3.0",
+  "displayName": "Blue Theme for VSCode",
+  "description": "Blue theme inspired by Visual Studio 2022",
+  "version": "0.4.0",
   "engines": {
     "vscode": "^1.0.0"
   },
@@ -35,11 +35,6 @@
         "label": "Visual Studio 2022 Blue",
         "uiTheme": "vs",
         "path": "./themes/blue-vs-color-theme.json"
-      },
-      {
-        "label": "Visual Studio 2022 Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark-vs-color-theme.json"
       }
     ]
   }
