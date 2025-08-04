@@ -1,8 +1,8 @@
 {
   "name": "vs2022-themes-for-vscode",
-  "displayName": "Blue Theme for VSCode",
+  "displayName": "Blue Theme 2022",
   "description": "Blue theme inspired by Visual Studio 2022",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "engines": {
     "vscode": "^1.0.0"
   },

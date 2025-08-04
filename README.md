@@ -1,6 +1,6 @@
-# Visual Studio 2022 Theme for VSCode
+# Blue Theme
 
-This extension provides Blue theme inspired by Visual Studio 2022 for Visual Studio Code
+This extension provides Blue theme inspired by Visual Studio 2022
 
 ![blue theme preview](preview/preview_blue_vs.jpg)
 <br>
